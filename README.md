@@ -2,6 +2,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Back-end](#back-end)
+* [Front-end](#front-end)
 
 ## Introduction
 This project is simple Lorem ipsum dolor generator.
@@ -13,10 +14,5 @@ Project is created with:
 * Ament library version: 999
 	
 ## Back-end
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+## Front-end
