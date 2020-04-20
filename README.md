@@ -23,11 +23,12 @@ Project is created with:
 Tout les pages web se constituent d’un menu (header) que le contenu change en fonction de besoin, aussi un footer fixe contient lien vers le code source de projet 
 
 
+
 * Login page :
 La Login-page assure la validité des utilisateurs existaient dans la base de données en assurant la suscrite du site web avec Spring Security .
 
 
-![LoginPage](https://user-images.githubusercontent.com/51484343/79798396-37d11a00-8359-11ea-8ccb-fdf96b49c092.png)
+![LoginPage](https://user-images.githubusercontent.com/51484343/79808173-4fb29900-836d-11ea-9f45-9eafb2690a56.png)
 
 
 * Welcome Page :
@@ -35,20 +36,20 @@ Après la validation de des données fournis par l’utilisateur, une welcome pa
 La différence par rapport au Login page se traduit au niveau de menu (disparition du Button login et l’apparition d’autre Button.
 
 
-![welcomPage](https://user-images.githubusercontent.com/51484343/79805418-61447280-8366-11ea-9f32-c5fd08b5f553.png)
+![welcomPage](https://user-images.githubusercontent.com/51484343/79808175-504b2f80-836d-11ea-9aca-ce09be9982d6.png)
 
 
 * les listes des projets et formations :
 La liste des Todos ou projet-formation contient les projets ou formation correspond à l’utilisateur connecté, il fournit des fonctionnalités intéressantes comme la mise à jour, suppression et l’ajout d’un projet .
 
 
-![List-Todo](https://user-images.githubusercontent.com/51484343/79797192-1f600000-8357-11ea-860b-90504fa32ce3.png)
+![List-Todo](https://user-images.githubusercontent.com/51484343/79808171-4fb29900-836d-11ea-8f39-0d11e0f80b89.png)
 
 toute en validant les données modifier ou ajouter.
  
  * Ajout ou l'Updapte :
  l'Ajout ou l'Udapte se fait  En respectant   les cratères de validation 
-![AddOrUpdate](https://user-images.githubusercontent.com/51484343/79805629-d3b55280-8366-11ea-9dcc-f61af5604b95.png)
+![AddOrUpdate](https://user-images.githubusercontent.com/51484343/79808168-4e816c00-836d-11ea-937d-60facc244c07.png)
 
 
 
