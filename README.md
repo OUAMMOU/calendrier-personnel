@@ -1,7 +1,7 @@
 ## Table de composantes 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
-* [Le fonctionnement de l'Application](#le fonctionnement de l'Application )
+* [Le fonctionnement de l'Application](#le-fonctionnement-de-l'Application )
 * [Front-end](#front-end)
 
 ## Introduction
