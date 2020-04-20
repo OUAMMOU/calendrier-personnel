@@ -1,2 +1,22 @@
-# calendrier-personnel
-RestFull Application semble à une calendrier personnel qui gére des projets et des formations à faire 
+## Table de composantes 
+* [Introduction](#introduction)
+* [Technologies](#technologies)
+* [Back-end](#back-end)
+
+## Introduction
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Back-end
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
