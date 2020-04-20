@@ -39,17 +39,17 @@ La différence par rapport au Login page se traduit au niveau de menu (dispariti
 
 
 * les listes des projets et formations 
-La liste des Todos ou projet-formation contient les projets ou formation correspond à l’utilisateur connecté, il fournit des fonctionnalités intéressantes comme la mise à jour, suppression et l’ajout d’un projet toute en validant les données modifier ou ajouter.
+La liste des Todos ou projet-formation contient les projets ou formation correspond à l’utilisateur connecté, il fournit des fonctionnalités intéressantes comme la mise à jour, suppression et l’ajout d’un projet .
 
 
 ![List-Todo](https://user-images.githubusercontent.com/51484343/79797192-1f600000-8357-11ea-860b-90504fa32ce3.png)
 
-figure>
-  
+toute en validant les données modifier ou ajouter.
+ 
+ * Ajout ou l'Updapte 
+ l'Ajout ou l'Udapte se fait  En respectant   les cratères de validation 
 ![AddOrUpdate](https://user-images.githubusercontent.com/51484343/79805629-d3b55280-8366-11ea-9dcc-f61af5604b95.png)
 
-  <figcaption>Optional title</figcaption>
-</figure>
 
 
 ## Front-end
