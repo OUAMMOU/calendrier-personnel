@@ -1,7 +1,7 @@
 ## Table de composantes 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
-* [Le fonctionnement de l'Application](#le-fonctionnement-de-l'Application )
+* [Fonctionnalités](#Fonctionnalités)
 * [Front-end](#front-end)
 
 ## Introduction
@@ -19,10 +19,22 @@ Project is created with:
 * Phpmyadmin ,MySQL
 * Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
 	
-## Le fonctionnement de l'Application 
+## Fonctionnalités 
+Tout les pages web se constituent d’un menu (header) que le contenu change en fonction de besoin, aussi un footer fixe contient lien vers le code source de projet 
+
 * Login page 
+La Login-page assure la validité des utilisateurs existaient dans la base de données en assurant la suscrite du site web avec Spring Security .
+
 ![LoginPage](https://user-images.githubusercontent.com/51484343/79798396-37d11a00-8359-11ea-8ccb-fdf96b49c092.png)
+
+* Welcome Page
+Après la validation de des données fournis par l’utilisateur, une welcome page apparait en spécifiant le nom d’utilisateur connecté.
+La différence par rapport au Login page se traduit au niveau de menu (disparition du Button login et l’apparition d’autre Button.
+
+
 * les listes des projets et formations 
+La liste des Todos ou projet-formation contient les projets ou formation correspond à l’utilisateur connecté, il fournit des fonctionnalités intéressantes comme la mise à jour, suppression et l’ajout d’un projet toute en validant les données modifier ou ajouter.
+
 ![List-Todo](https://user-images.githubusercontent.com/51484343/79797192-1f600000-8357-11ea-860b-90504fa32ce3.png)
 
 ## Front-end
