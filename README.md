@@ -1,7 +1,7 @@
 ## Table de composantes 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
-* [Back-end](#back-end)
+* [Le fonctionnement de l'Application ](#Le fonctionnement de l'Application )
 * [Front-end](#front-end)
 
 ## Introduction
@@ -19,7 +19,9 @@ Project is created with:
 * Phpmyadmin ,MySQL
 * Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
 	
-## Back-end
+## Le fonctionnement de l'Application 
+* Login page 
+* les listes des projets et formations 
 ![List-Todo](https://user-images.githubusercontent.com/51484343/79797192-1f600000-8357-11ea-860b-90504fa32ce3.png)
 
 ## Front-end
