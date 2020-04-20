@@ -1,0 +1,39 @@
+
+    
+
+<div class="bg">
+    
+    <div class="row">
+
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <h1 class="text-center">Connectez vous </h1>
+            <input type="text" class="form-control" name="username" placeholder="Username" [(ngModel)]="username"><br>
+            <input type="password" class="form-control" name="password" placeholder="Password" [(ngModel)]="password"><br>
+            <button (click)=handlBasicAuthlogin() class="btn btn-success">Se Connectez</button>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+    <div class="alert alert-warning" *ngIf='ivalidelogin'>{{errorMessage}}</div>
+
+</div>
+
+
+<!--     
+    <h1>Login!</h1>
+<div class="container">
+user name : <input type="text" name="username" [(ngModel)]="username">
+password : <input type="password" name="password" [(ngModel)]="password" > -->
+<!-- <button (click)=handllogin() class="btn btn-success">Login</button> -->
+<!-- <button (click)=handlBasicAuthlogin() class="btn btn-success">Login</button>
+</div>
+<div class="alert alert-warning" *ngIf='ivalidelogin'>{{errorMessage}}</div> -->
+
+<!-- <h1>Login!</h1>
+<div class="container">
+user name : <input type="text" name="username" [(ngModel)]="username">
+password : <input type="password" name="password" [(ngModel)]="password" > -->
+<!-- <button (click)=handllogin() class="btn btn-success">Login</button> -->
+<!-- <button (click)=handlBasicAuthlogin() class="btn btn-success">Login</button>
+</div>
+<div class="alert alert-warning" *ngIf='ivalidelogin'>{{errorMessage}}</div> -->

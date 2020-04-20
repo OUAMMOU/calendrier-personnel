@@ -1,0 +1,28 @@
+
+.bg{
+     /* background-size: cover; */
+    /* background-attachment: fixed; */
+     font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    font-size: 40px;
+    color: black;
+    /* margin-top: 150px; */
+
+}
+/* .form-control{
+    background:transparent;
+    border-radius: 0px;
+    padding:30px;
+    font-size: 25px;
+    color:white;
+    border-bottom: 1px solid blue;
+
+
+} */
+/* :host{
+    background-image: url("https://annabaa.org/aarticles/fileM/23/5db01864a56ea.jpg") ; 
+    height: 100%;
+    position: absolute;
+    width: 100%;
+} */

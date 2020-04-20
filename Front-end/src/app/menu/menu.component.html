@@ -1,0 +1,16 @@
+<header>
+    <nav class="navbar navbar-expand-md navbar-dark bg-primary">
+        <div>
+            <a href="https://github.com/OUAMMOU/calendrier-personnel-" class="navbar-brand">Calendrier personnel  </a>
+        </div>
+        <ul class="navbar-nav">
+            <li><a *ngIf="this.hardcodeAuthenticationService.isUserLoogedIn()" routerLink="/welcome" class="nav-link">Home</a></li>
+            <li><a *ngIf="this.hardcodeAuthenticationService.isUserLoogedIn()" routerLink="/todos" class="nav-link">Todos</a></li>
+        </ul>
+        <ul class="navbar-nav navbar-collapse justify-content-end">
+            <li><a *ngIf="!this.hardcodeAuthenticationService.isUserLoogedIn()" routerLink="/login" class="nav-link">login</a></li>
+            <li><a *ngIf="this.hardcodeAuthenticationService.isUserLoogedIn()" routerLink="/logout" class="nav-link">Logout</a></li>
+        </ul>
+    </nav>
+</header>
+
