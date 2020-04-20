@@ -5,13 +5,17 @@
 * [Front-end](#front-end)
 
 ## Introduction
-This project is simple Lorem ipsum dolor generator.
+
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+
+* Aangular 7
+* Spring boot , Spring Security 
+* Visual Studio Code - Latest Version
+* Java 8+ et JEE
+* Phpmyadmin ,MySQL
+* Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
 	
 ## Back-end
 
