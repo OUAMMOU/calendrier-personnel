@@ -2,7 +2,6 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Fonctionnalités](#Fonctionnalités)
-* [Front-end](#front-end)
 
 ## Introduction
 Que vous soyez adepte de l'organisation ou de la procrastination, les applications Candelier vous seront d'un grand secours, le projet est une simple Rest Application qui permet de gérer les listes des projets ou formation que l’utilisateur Voudrai les faire dans un délai bien déterminer.
@@ -50,7 +49,3 @@ toute en validant les données modifier ou ajouter.
  * Ajout ou l'Updapte :
  l'Ajout ou l'Udapte se fait  En respectant   les cratères de validation 
 ![AddOrUpdate](https://user-images.githubusercontent.com/51484343/79808168-4e816c00-836d-11ea-937d-60facc244c07.png)
-
-
-
-## Front-end
