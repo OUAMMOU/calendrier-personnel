@@ -20,6 +20,5 @@ Project is created with:
 * Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
 	
 ## Back-end
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text]("https://drive.google.com/file/d/1_P_IUZ9zfBoq_SvWvS3vWb3fcSEvN-5n/view?usp=sharing")
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ## Front-end
