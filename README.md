@@ -11,7 +11,7 @@ La partie backend est développé sur J2ee avec l’utilisation de Spring boot p
 ## Technologies
 Project is created with:
 
-* Aangular 7
+* Angular 7
 * Spring boot , Spring Security 
 * Visual Studio Code - Latest Version
 * Java 8+ et JEE
