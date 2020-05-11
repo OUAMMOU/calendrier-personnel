@@ -5,7 +5,7 @@
 
 ## Introduction
 Que vous soyez adepte de l'organisation ou de la procrastination, les applications Candelier vous seront d'un grand secours, le projet est une simple Rest Application qui permet de gérer les listes des projets ou formation que l’utilisateur Voudrai les faire dans un délai bien déterminer.
-La partie backend est développé sur J2ee avec l’utilisation de Spring boot pour la partie Web, le Frontend sur Angular 7 et enfin la gestions des données se fait par le SGBD MySQL sur phpMyAdmin .
+La partie backend est développé sur J2ee avec l’utilisation de Spring, le Frontend sur Angular 7 et enfin la gestions des données se fait par le SGBD MySQL sur phpMyAdmin .
 
 	
 ## Technologies
