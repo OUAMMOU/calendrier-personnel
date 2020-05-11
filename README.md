@@ -24,15 +24,15 @@ Tout les pages web se constituent d’un menu (header) que le contenu change en 
 
 
 * Login page :
-La Login-page assure la validité des utilisateurs existaient dans la base de données en assurant la suscrite du site web avec Spring Security .
+La Login-page assure la validité des utilisateurs existaient dans la base de données en assurant la sécurité du site web avec Spring Security .
 
 
 ![LoginPage](https://user-images.githubusercontent.com/51484343/79808173-4fb29900-836d-11ea-9f45-9eafb2690a56.png)
 
 
 * Welcome Page :
-Après la validation de des données fournis par l’utilisateur, une welcome page apparait en spécifiant le nom d’utilisateur connecté.
-La différence par rapport au Login page se traduit au niveau de menu (disparition du Button login et l’apparition d’autre Button.
+Après la validation des données fournis par l’utilisateur, une welcome page apparait en spécifiant le nom d’utilisateur connecté.
+La différence par rapport au Login page se traduit au niveau de menu (disparition du Button login et l’apparition d’autre Button Logout).
 
 
 ![welcomPage](https://user-images.githubusercontent.com/51484343/79808175-504b2f80-836d-11ea-9aca-ce09be9982d6.png)
@@ -44,8 +44,8 @@ La liste des Todos ou projet-formation contient les projets ou formation corresp
 
 ![List-Todo](https://user-images.githubusercontent.com/51484343/79808171-4fb29900-836d-11ea-8f39-0d11e0f80b89.png)
 
-toute en validant les données modifier ou ajouter.
+toute en validant les formats des  données modifier ou ajouter.
  
  * Ajout ou l'Updapte :
- l'Ajout ou l'Udapte se fait  En respectant   les cratères de validation 
+ l'Ajout ou l'Udapte se fait  En respectant les critères de validation 
 ![AddOrUpdate](https://user-images.githubusercontent.com/51484343/79808168-4e816c00-836d-11ea-937d-60facc244c07.png)
