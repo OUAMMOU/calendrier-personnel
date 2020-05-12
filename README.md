@@ -4,7 +4,7 @@
 * [Fonctionnalités](#Fonctionnalités)
 
 ## Introduction
-Développement d’un Système est une application de Vote qui permet aux citoyens de s’enregistrer aux élections et voter pour leurs candidats préférés, elle permet aussi d’avoir les résultats en temps réels.
+Que vous soyez adepte de l'organisation ou de la procrastination, les applications to-do list vous seront d'un grand secours ,L’Application Calendrier personnel  permet très simplement d'organiser les tâches, d'optimiser en  temps et de gagner en productivité.
 La partie backend est développé sur J2ee avec l’utilisation de Spring, le Frontend sur Angular 7 et enfin la gestions des données se fait par le SGBD MySQL sur phpMyAdmin .
 
 	
@@ -24,22 +24,20 @@ Toutes les pages web se constituent d’un menu (header) que le contenu change e
 
 
 * Login page :
-La Login-page fournis deux services, premier service l’enregistrement en tant qu’un citoyen pour voter, ce service assure aussi que le citoyen n’a pas encore voté ou existé dans la base de données, deuxième service Administratif permet aux Administrateurs de consulter les résultats de vote en temps réel.
+la  page a pour objectif de vérifier la cogérance de données entrées par l’utilisateur et celles stocké dans la base de données pour permettre l’accès.
 
 ![LoginPage](https://user-images.githubusercontent.com/51484343/79808173-4fb29900-836d-11ea-9f45-9eafb2690a56.png)
 
 
-* Vote Page :
-Vote page :  la page permet au citoyen de voter au candidat préféré et présenté dans la List des candidats fourni dans la page, après le vote une page de remerciement s’affiche.
+* Welcom Page :  Apres valider les cohérence des données , la welcome page s’affiche pour saluer l’utilisateur en et lui indiquer le lien vers sa listes des totos ou projets .
 
 
 ![welcomPage](https://user-images.githubusercontent.com/51484343/79808175-504b2f80-836d-11ea-9aca-ce09be9982d6.png)
 
 
-* Result Page :
-Après avoir vérifier l’email et le Mot de passe, l’administrateur ou le responsable sur les élections peut consulter les résultats en temps réel .
+* Todo-List Page :
+Cette page contient tous les projets ou formations devrais être faites avant le Dead line , elle permet aussi de supprimer, modifier ou Ajouter un projet .
 
 
 ![List-Todo](https://user-images.githubusercontent.com/51484343/79808171-4fb29900-836d-11ea-8f39-0d11e0f80b89.png)
-
-
+* TAdd Page :
